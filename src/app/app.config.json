@@ -1,0 +1,15 @@
+{
+	"appname": "January Buyer",
+	"scope": "",
+	"clientid": "E4F0C4B7-4E95-4278-A616-E6BA07EF5DC5",
+	"buyerid": "JanuaryBuyer",
+	"catalogid": "JanuaryBuyer",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
